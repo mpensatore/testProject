@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ceebda1-aaf6-4f29-a4d9-9dec83b902cc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" afterPath="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
-    </list>
+    <list default="true" id="5ceebda1-aaf6-4f29-a4d9-9dec83b902cc" name="Default" comment="" />
     <ignored path="explore_california.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +25,7 @@
       <file leaf-file-name="tour_detail_backpack_cal.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="69" selection-start="427" selection-end="427" vertical-scroll-proportion="0.08007117">
+            <state line="72" column="48" selection-start="4552" selection-end="4552" vertical-scroll-proportion="0.9475089">
               <folding />
             </state>
           </provider>
@@ -52,8 +49,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="246" />
-    <option name="y" value="49" />
+    <option name="x" value="1159" />
+    <option name="y" value="22" />
     <option name="width" value="1461" />
     <option name="height" value="1340" />
   </component>
@@ -135,7 +132,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="246" y="49" width="1461" height="1340" extended-state="0" />
+    <frame x="1159" y="22" width="1461" height="1340" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -214,7 +211,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="69" selection-start="427" selection-end="427" vertical-scroll-proportion="0.08007117">
+        <state line="72" column="48" selection-start="4552" selection-end="4552" vertical-scroll-proportion="0.9475089">
           <folding />
         </state>
       </provider>
