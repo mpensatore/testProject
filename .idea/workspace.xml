@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ceebda1-aaf6-4f29-a4d9-9dec83b902cc" name="Default" comment="" />
+    <list default="true" id="5ceebda1-aaf6-4f29-a4d9-9dec83b902cc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/explorers.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" afterPath="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
+    </list>
     <ignored path="explore_california.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +28,10 @@
       <file leaf-file-name="tour_detail_backpack_cal.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="78" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.21352313">
-              <folding />
+            <state line="55" column="0" selection-start="2733" selection-end="2733" vertical-scroll-proportion="0.547153">
+              <folding>
+                <marker date="1350395035000" expanded="true" signature="878:1035" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,8 +49,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
         <option value="$PROJECT_DIR$/junk.html" />
+        <option value="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
       </list>
     </option>
   </component>
@@ -219,8 +224,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="78" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.21352313">
-          <folding />
+        <state line="55" column="0" selection-start="2733" selection-end="2733" vertical-scroll-proportion="0.547153">
+          <folding>
+            <marker date="1350395035000" expanded="true" signature="878:1035" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
